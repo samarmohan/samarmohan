@@ -5,12 +5,11 @@
   <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&message=Theplayerofdoom43&logoColor=white" />
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&message=samarmohan&logoColor=white"/>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarmohan&theme=onedark&margin-w=15&margin-h=15&column=8" alt="My Trophies!" /></a> </p>
 
+#### I am a kid who loves computer science and open source. I can contribute to any project that uses the languages, libraries, or frameworks below!
 
-I am a kid who loves computer science and open source. I can contribute to any project that uses the languages, libraries, or frameworks below!
-
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,11 +25,11 @@ I am a kid who loves computer science and open source. I can contribute to any p
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 
-My favorite editors/IDEs! <br />
+My favorite editors/IDEs! <br /> <br />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
-Operating Systems! <br />
+Operating Systems! <br /> <br />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
@@ -38,4 +37,4 @@ Operating Systems! <br />
 😄 My pronouns are he/him!
 
 [![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarmohan&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) <br />
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarmohan)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarmohan&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
