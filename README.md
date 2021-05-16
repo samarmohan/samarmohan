@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=stackoverflow&label=StackOverflow&message=samarmohan" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarmohan&theme=onedark&margin-w=15&margin-h=15&column=8" alt="My Trophies!" /></a> </p>
-B
+
 #### I am a kid who loves computer science and open source.😄 My pronouns are he/him! Trying to contribute to [DogeHouse](https://github.com/benawad/dogehouse), [Bootstrap](https://github.com/twbs/bootstrap), [React](https://github.com/facebook/react), [styled-components](https://github.com/styled-components/styled-components), and [Chakra-UI](https://github.com/chakra-ui/chakra-ui)
 
 
