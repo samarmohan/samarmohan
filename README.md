@@ -6,13 +6,11 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=stackoverflow&label=StackOverflow&message=samarmohan" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarmohan&theme=onedark&margin-w=15&margin-h=15&column=8" alt="My Trophies!" /></a> </p>
-
-#### I am a kid who loves computer science and open source. I can contribute to any project that uses the languages, libraries, or frameworks below! 😄 My pronouns are he/him!
+B
+#### I am a kid who loves computer science and open source.😄 My pronouns are he/him! Trying to contribute to [DogeHouse](https://github.com/benawad/dogehouse), [Bootstrap](https://github.com/twbs/bootstrap), [React](https://github.com/facebook/react), [styled-components](https://github.com/styled-components/styled-components), and [Chakra-UI](https://github.com/chakra-ui/chakra-ui)
 
 
 ### Stacks
-
-
 
 ##### MERN
 - <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,19 +21,17 @@
 - <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
 
-##### DjangoStrap
+##### Django
 
 - <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 - <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 - <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 - <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 - <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 - <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
 
 
-##### NextFireWind
-- <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+##### NextFire
 - <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 - <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 - <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase" />
@@ -47,11 +43,17 @@
 - <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 - <img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge" />
 - <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
-- <img alt="Chakra UI" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="Chakra logo" width="100" />
 - <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
 - <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 - <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 
+
+##### CSS
+> Mix and match with any stack
+- <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+- <img alt="Chakra UI" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="Chakra logo" width="100" />
+- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+- <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
 ##### Learning
 - <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
