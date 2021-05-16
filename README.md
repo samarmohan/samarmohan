@@ -13,6 +13,7 @@
 ### Stacks
 
 ##### MERN
+> [Example Project](https://github.com/samarmohan/mern-products-app)
 - <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 - <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 - <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge" />
@@ -22,7 +23,7 @@
 
 
 ##### Django
-
+> [Example Project](https://github.com/samarmohan/book-database)
 - <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 - <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 - <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,6 +40,7 @@
 - <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 
 ##### GraphQL
+> [Example Project](https://github.com/samarmohan/growl)
 - <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />
 - <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 - <img alt="Type-graphql" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=for-the-badge" />
