@@ -7,7 +7,9 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarmohan&theme=onedark&margin-w=15&margin-h=15&column=8" alt="My Trophies!" /></a> </p>
 
-#### I am a kid who loves computer science and open source.😄 My pronouns are he/him! Trying to contribute to random JS/TS open source projects.
+Entrepreneur and open source lover. Founder of [Kryptor](https://github.com/kryptor-org), [Book Worm](https://book-worm-1.herokuapp.com/). Part of the [OxyLearn](https://oxylearn.live) core team!
+
+Fullstack Typescript dev and aspiring data scientist.
 
 ### Stats
 
