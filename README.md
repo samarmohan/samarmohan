@@ -2,7 +2,7 @@
 
 I'm currently working on my portfolio, so check back later.
 
-I like making cool (but mostly useless) tools for everyone to use.
+I like making cool (but mostly useless) tools for everyone to use. Right now, I'm building with TypeScript and Haskell.
 <h5>Languages I use daily</h5>
 <ul>
   <li>TypeScript/JavaScript</li>
